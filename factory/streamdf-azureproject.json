@@ -1,0 +1,9 @@
+{
+	"name": "streamdf-azureproject",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb4eac44-5ab9-46b1-91f9-857db685a691",
+		"tenantId": "0dcf3e8f-972a-44c2-b884-db33d454f3d8"
+	}
+}
