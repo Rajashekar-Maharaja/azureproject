@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryazureprojectraj",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5de4cc8d-9d52-42e8-b703-9da043e995a9",
+		"tenantId": "c05041b8-2d03-4b14-ac0c-54f9e75d981d"
+	}
+}
